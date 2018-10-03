@@ -13,3 +13,14 @@ This game, if developed as a real game, would better function as this:
   e. if still more than one player is in the place, repeat a-d.
   f. the last survivor (the one who chose run away will not be counted even if they survived) can choose where they would go next for the second round. a number of locations will be blocked out by the Zone.
 4. Keep the same method, run again and again until there's a last survivor.
+
+
+
+The full version seems too big to finish in a small amount of time. Besides, I don't have the knowledge to build internet connections between computers yet. Therefore, I planned to start with an easy simple one-player game. This game will have:
+1. 5 locations in total.
+2. don't choose guns.
+3. include 10 computer player. they are not even AI - they make choices randomly.
+
+This reduces the problem to a manageable range. I will try coming up with flow chart in the end of the week.
+
+**this is not for commercial uses. It is here just for fun.
