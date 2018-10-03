@@ -17,7 +17,7 @@ This game, if developed as a real game, would better function as this:
 
 
 The full version seems too big to finish in a small amount of time. Besides, I don't have the knowledge to build internet connections between computers yet. Therefore, I planned to start with an easy simple one-player game. This game will have:
-1. 5 locations in total.
+1. 5 locations in total. Disable one location per turn (making it even easier)
 2. don't choose guns.
 3. include 10 computer player. they are not even AI - they make choices randomly.
 
