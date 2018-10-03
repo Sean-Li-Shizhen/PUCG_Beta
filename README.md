@@ -22,5 +22,6 @@ The full version seems too big to finish in a small amount of time. Besides, I d
 3. include 10 computer player. they are not even AI - they make choices randomly.
 
 This reduces the problem to a manageable range. I will try coming up with flow chart in the end of the week.
+How far this code may go acctually depends on how much schoolwork I will deal with. And knowledge contraints really hold me back. So if anyone see this and interested, do it on yourself. I won't charge:)
 
 **this is not for commercial uses. It is here just for fun.
