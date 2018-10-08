@@ -25,3 +25,9 @@ This reduces the problem to a manageable range. I will try coming up with flow c
 How far this code may go acctually depends on how much schoolwork I will deal with. And knowledge contraints really hold me back. So if anyone see this and interested, do it on yourself. I won't charge:)
 
 **this is not for commercial uses. It is here just for fun.
+
+date: Oct. 8
+When I was thinking about the layout of the activities I found that in order to make sense as a PUBG, "the fight" need to be divided into two sections:
+1. when something happened (gunshot, step, nothing), three choices available: check, stay, leave
+2. then if found someone, there are three choices: fight, behold, run.
+The next week is the midterm. I might postpone the code later than that week.
